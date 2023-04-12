@@ -1,2 +1,2 @@
 # Vezba
-Opis
+Opis,iz githuba direkt.
